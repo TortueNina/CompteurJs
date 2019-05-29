@@ -1,0 +1,15 @@
+
+div {
+    text-align: center;
+}
+h1 {
+    text-decoration: underline;
+}
+button {
+    font-weight: bold;
+    background-color: goldenrod;
+    color: antiquewhite;
+}
+button:hover{
+    background-color: silver;
+}
